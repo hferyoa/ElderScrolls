@@ -8,11 +8,9 @@ Religious Zealotry
 
 Pick a (D)Aedra to follow, gain abilities based on the entity you choose
 
-
-
 **Argonian**
 
-Hist connection
+Hist Connection
 
 
 
@@ -85,7 +83,30 @@ Sword-Singing
 
 
 # Combat Magic Overhaul
+Cast combat magic with every school of Magic. Grants multiple new spells for all skill levels of each school of magic. I am toying around with two potential mappings of the types of enemy each School can affect:
 
+|School|Enemy List 1|Enemy List 2|
+|------|------------|------------|
+|Alteration|Automatons|Daedra|
+|Conjuration|Daedra|Undead|
+|Destruction|Animals|Man|
+|Enchanting|Mer|Automatons|
+|Illusion|Man|Animals|
+|Restoration|Undead|Mer|
+
+Enchanting may not be a viable option, I may need to attempt to script it in Papyrus, which will take longer and may not be possible.
+
+If it is not possible to include spells for Enchanting, the possibilities will be:
+
+|School|Enemy List 1|Enemy List 2|
+|------|------------|------------|
+|Alteration|Automatons|Daedra|
+|Conjuration|Daedra|Undead|
+|Destruction|Animals|Automatons|
+|Illusion|Humanoids|Animals|
+|Restoration|Undead|Humanoids|
+
+# Combat Magic Overhaul 2
 
 
 # Own Plane of Oblivion
