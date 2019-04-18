@@ -2,7 +2,7 @@
 A github repo of Elder Scrolls mods I am working on.
 
 # New Racial Abilities
-**Altmer
+**Altmer**
 
 Religious Zealotry
 
@@ -10,31 +10,31 @@ Pick a (D)Aedra to follow, gain abilities based on the entity you choose
 
 
 
-**Argonian
+**Argonian**
 
 Hist connection
 
 
 
-**Bosmer
+**Bosmer**
 
 Green Pact
 
 
 
-**Breton
+**Breton**
 
 Forsworn
 
 
 
-**Dunmer
+**Dunmer**
 
 Ancestral reconnection and summoning
 
 
 
-**Imperial
+**Imperial**
 
 Royal Blood
 
@@ -48,7 +48,7 @@ Dwarven style Hammer with the Chim-el Adabal embedded into it. Banishes Daedra, 
 
 
 
-**Khajiit
+**Khajiit**
 
 Can cook a family Skooma recipe through Cooking using just Moon Sugar. This will create a potion that will restore and fortify health, stamina, and magicka , but will then drain all three over time.
 
@@ -60,7 +60,7 @@ Similar to Werewolf form, goes into an animal form, increasing Movespeed and all
 
 
 
-**Nord
+**Nord**
 
 Animal aspects and worship
 
@@ -70,7 +70,7 @@ Berserking (Attack Speed and Movespeed)
 
 
 
-**Orsimer
+**Orsimer**
 
 Trinimac's Faithful
 
@@ -78,7 +78,7 @@ Berserking (Health and Stamina)
 
 
 
-**Redguard
+**Redguard**
 
 Sword-Singing
  
