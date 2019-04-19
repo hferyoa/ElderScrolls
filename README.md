@@ -58,6 +58,16 @@ A smaller combat magic mod that allows the caster to specialise in alternate for
 
 A large combat magic addition that includes the possibility of using item resources to cast stronger spells.
 
+|School|Theme|Novice|Apprentice|Adept|Expert|Master|
+|--|--|--|--|--|--|--|
+|Alteration|||||||
+|Conjuration|Soul Magic||||||
+|Destruction|Blood Magic||||||
+|Enchanting|Stave Magic||||||
+|Illusion|||||||
+|Restoration|||||||
+
+
 # Own Plane of Oblivion
  
  
