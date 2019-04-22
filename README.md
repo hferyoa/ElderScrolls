@@ -58,14 +58,14 @@ A smaller combat magic mod that allows the caster to specialise in alternate for
 
 A large combat magic addition that includes the possibility of using item resources to cast stronger spells.
 
-|School|Theme|Novice|Apprentice|Adept|Expert|Master|
-|--|--|--|--|--|--|--|
-|Alteration|||||||
-|Conjuration|Soul Magic||||||
-|Destruction|Blood Magic||||||
-|Enchanting|Stave Magic||||||
-|Illusion|||||||
-|Restoration|||||||
+|School|Theme|Novice|Apprentice|Adept|Expert|Master|Notes|
+|--|--|--|--|--|--|--|--|
+|Alteration||||||||
+|Conjuration|Soul Magic||||||Sacrifice soul gems in your inventory to deal damage. Drains Azura's Star.|
+|Destruction|Blood Magic||||||Sacrifice health instead of magicka to cast spells|
+|Enchanting||||||||
+|Illusion|Bow of Shadows||||||Conjured Bow - chameleon effect on user. Drains health to deal damage, doesn't need arrows.|
+|Restoration||||||||
 
 
 # Own Plane of Oblivion
