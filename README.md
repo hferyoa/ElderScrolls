@@ -9,7 +9,7 @@ A github repo of Elder Scrolls mods I am working on.
 |Argonian|Shadowscale|Costs 50 Magicka: Become invisible for 60 seconds.|
 |Bosmer|Meat Mandate|Gain the ability to eat any creature you kill to regenerate health and stamina. Once per day: Lower max stamina by ten until you next consume a creature you kill. Your movement speed, arrow flight speed, and sneak skill, are all increased the lower your current stamina is.|
 |Breton|Will of the Breton|Once per day: Gain 50 maximum Magicka for 1 hour. Gain  slight additional magic resistance, and a chance to absorb incoming spells, the higher your current Magicka stat.|
-|Dunmer|Ancestral Teachings|Pick your Ancestral Lineage; Pick one of the following abilities. House Redoran: Summon an Ancestral Ghost that attacks enemies with physical weapons and increases your Health while it's alive. House Telvanni: Summon an Ancestral Ghost that attacks enemies with spells and increases yiour Magicka while it's alive. Houseless: Summon an Ancestral Morag Tong agent that attacks enemies with a bow and increases your Stamina while it's alive.|
+|Dunmer|Ancestral Teachings|Pick your Ancestral Lineage; Pick one of the following abilities. House Redoran: Summon an Ancestral Ghost that attacks enemies with physical weapons and increases your Health while it's alive. House Telvanni: Summon an Ancestral Ghost that attacks enemies with spells and increases your Magicka while it's alive. Houseless: Summon an Ancestral Morag Tong agent that attacks enemies with a bow and increases your Stamina while it's alive.|
 |Imperial|Blood of the Empire|Once per day: Gain 50 maximum Health for 1 hour. Gain slight physical resistances and increase your Block skill, the higher your current Health stat.|
 |Khajiit|Hunter's Stamina|Once per day: Gain 50 maximum Stamina for 1 hour. Gain slight attack speed and movement speed, the higher your current Stamina stat.|
 |Nord|Berserk|Once per day: Lower max magicka by ten until you next pray at an altar of Talos, or equip an Amulet of Talos. Gain physical and magical defenses, as well as increasing your damage dealt, the lower your current Magicka is.|
@@ -63,9 +63,9 @@ A large combat magic addition that includes the possibility of using item resour
 |Alteration|Abandoned Plane of Oblivion||||||Discover a small plane of oblivion just for you, complete with a quest detailing the history behind it.|
 |Conjuration|Soul Magic||||||Sacrifice soul gems in your inventory to deal damage. Drains Azura's Star.|
 |Destruction|Blood Magic||||||Sacrifice health instead of magicka to cast spells|
-|Enchanting||||||||
-|Illusion|Bow of Shadows||||||Conjured Bow - chameleon effect on user. Drains health to deal damage, doesn't need arrows.|
-|Restoration||||||||
+|Enchanting|Disenchanting Options||||||Gives the player more options when disenchanting items.|
+|Illusion||||||||
+|Restoration|Soul Transferal||||||Cast on a dead body to lure its soul to your lantern (or doll, if Hearthfire is installed), then cast on another dead body to resurrect it.|
 
 
 # Own Plane of Oblivion
