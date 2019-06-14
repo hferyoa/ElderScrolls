@@ -29,9 +29,7 @@ Cast combat magic with every school of Magic. Grants multiple new spells for all
 |Illusion|Man|Animals|
 |Restoration|Undead|Mer|
 
-Enchanting may not be a viable option, I may need to attempt to script it in Papyrus, which will take longer and may not be possible.
-
-If it is not possible to include spells for Enchanting, the possibilities will be:
+Enchanting may not be a viable option; if it is not possible, the possibilities will be:
 
 |School|Enemy List 1|Enemy List 2|
 |------|------------|------------|
@@ -43,7 +41,7 @@ If it is not possible to include spells for Enchanting, the possibilities will b
 
 # Combat Magic Overhaul 2
 
-A smaller combat magic mod that allows the caster to specialise in alternate forms of combat. May be game breaking.
+A combat magic mod that allows the caster to specialise in alternate forms of combat.
 
 |School|Theme|Novice|Apprentice Spells|Adept|Expert|Master|
 |------|-----|------|----------|-----|------|------|
@@ -56,7 +54,7 @@ A smaller combat magic mod that allows the caster to specialise in alternate for
 
 # Combat Magic Overhaul 3
 
-A large combat magic addition that includes the possibility of using item resources to cast stronger spells.
+A large combat magic addition that includes the possibility of using items and other resources to cast stronger spells.
 
 |School|Theme|Novice|Apprentice|Adept|Expert|Master|Notes|
 |--|--|--|--|--|--|--|--|
@@ -64,7 +62,7 @@ A large combat magic addition that includes the possibility of using item resour
 |Conjuration|Soul Magic||||||Sacrifice soul gems in your inventory to deal damage. Drains Azura's Star.|
 |Destruction|Blood Magic||||||Sacrifice health instead of magicka to cast spells|
 |Enchanting|Disenchanting Options||||||Gives the player more options when disenchanting items.|
-|Illusion||||||||
+|Illusion|Illusory Dragons||||||Destroy Dragon Bones to summon an illusory dragon, fearing nearby enemies.|
 |Restoration|Soul Transferal||||||Cast on a dead body to lure its soul to your lantern (or doll, if Hearthfire is installed), then cast on another dead body to resurrect it.|
 
 
