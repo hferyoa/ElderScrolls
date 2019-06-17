@@ -52,18 +52,19 @@ A combat magic mod that allows the caster to specialise in alternate forms of co
 |Illusion|Pranks and Avoiding Fights|Make a sound where the spell hits to distract enemies|Summon an illusory person that runs fron enemies and dies to one attack|Cast on a sleeping enemy to paralyze them and deal health and stamina damage over time|Summon an illusory creature that runs at enemies and fears them|Halve target's HP and cause a frenzied clone to appear near them|
 |Restoration|Siphons health and magicka from enemies|Concentration: Deals damage to a target and heals the caster|Drains the target's magicka to restore the player's|Target takes damage over time, if it dies whilst under this effect, heal the player|Drain an enemy's magicka, dealing damage based on the amount of magicka drained|Creates a circle centered on the caster. Enemies within the circle take damage, allies are healed and have their magicka restored over time|
 
-# Combat Magic Overhaul 3
+# General Magic Overhaul 
 
-A large combat magic addition that includes the possibility of using items and other resources to cast stronger spells.
+A large magic addition that includes the possibility of using items and other resources to cast stronger spells.
 
 |School|Theme|Novice|Apprentice|Adept|Expert|Master|Notes|
 |--|--|--|--|--|--|--|--|
 |Alteration|Abandoned Plane of Oblivion||||||Discover a small plane of oblivion just for you, complete with a quest detailing the history behind it.|
-|Conjuration|Soul Magic||||||Sacrifice soul gems in your inventory to deal damage. Drains Azura's Star.|
+|Conjuration|Soul Magic||||||Sacrifice soul gems in your inventory to cast more powerful spells. Drains Azura's Star.|
 |Destruction|Blood Magic||||||Sacrifice health instead of magicka to cast spells|
 |Enchanting|Disenchanting Options||||||Gives the player more options when disenchanting items.|
-|Illusion|Illusory Dragons||||||Destroy Dragon Bones to summon an illusory dragon, fearing nearby enemies.|
+|Illusion|||||||Explore in an ethereal form undetectable to enemies, before teleporting back to your initial location.|
 |Restoration|Soul Transferal||||||Cast on a dead body to lure its soul to your lantern (or doll, if Hearthfire is installed), then cast on another dead body to resurrect it.|
+
 
 
 # Own Plane of Oblivion
