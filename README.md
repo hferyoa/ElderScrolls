@@ -68,3 +68,8 @@ A large magic addition that includes the possibility of using items and other re
 # Own Plane of Oblivion
  
  Discover a small plane of oblivion just for you, complete with a quest detailing the history behind it.
+
+
+# Skill Tree Overhaul
+
+Overhaul the Skyrim Skill tree page, possibility for retro look and reintroduce certain skills.
