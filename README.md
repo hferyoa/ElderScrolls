@@ -18,7 +18,7 @@ A github repo of Elder Scrolls mods I am working on.
 
 
 # Combat Magic Overhaul
-Cast combat magic with every school of Magic. Grants multiple new spells for all skill levels of each school of magic (exceptt Destruction). I am toying around with two potential mappings of the types of enemy each School can affect:
+Cast combat magic with every school of Magic. Grants multiple new spells for all skill levels of each school of magic (except Destruction). I am toying around with two potential mappings of the types of enemy each School can affect:
 
 |School|Enemy List 1|Enemy List 2|
 |------|------------|------------|
